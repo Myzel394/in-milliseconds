@@ -1,5 +1,5 @@
 {
-  "name": "in-seconds",
+  "name": "in-milliseconds",
   "description": "Simply convert days, weeks, months, etc. to seconds.",
   "version": "1.0.0",
   "license": "MIT",
