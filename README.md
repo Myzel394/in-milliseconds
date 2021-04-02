@@ -1,6 +1,6 @@
 # in-milliseconds
 
-Simply convert days, weeks, months, etc. to seconds.
+Simply convert days, weeks, months, etc. to milliseconds.
 
 And that's basically it. Typescript supported.
 
