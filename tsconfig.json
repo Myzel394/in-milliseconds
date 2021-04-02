@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "ES6",
+    "sourceMap": false,
+    "moduleResolution": "Node",
+    "types": [
+      "jest"
+    ],
+    "outDir": "./dist/esm",
+    "rootDir": "src",
+    "declaration": true
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "src/**/*.test.ts"
+  ]
+}
