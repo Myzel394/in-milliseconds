@@ -1,6 +1,6 @@
 {
   "name": "in-milliseconds",
-  "description": "Simply convert days, weeks, months, etc. to seconds.",
+  "description": "Simply convert days, weeks, months, etc. to milliseconds",
   "version": "1.0.0",
   "license": "MIT",
   "author": "Myzel394 Xyllian <myzel394.xyllian@gmail.com>",
