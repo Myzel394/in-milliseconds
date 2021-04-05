@@ -1,7 +1,7 @@
 {
   "name": "in-milliseconds",
   "description": "Simply convert days, weeks, months, etc. to milliseconds",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "license": "MIT",
   "author": "Myzel394 Xyllian <myzel394.xyllian@gmail.com>",
   "repository": "Myzel394/in-seconds",
@@ -11,8 +11,9 @@
     "seconds",
     "convert"
   ],
-  "main": "./dist/cjs/index.js",
-  "module": "./dist/esm/index.js",
+  "main": "./dist/cjs/in-milliseconds.js",
+  "module": "./dist/esm/in-milliseconds.js",
+  "typings": "./dist/esm/in-milliseconds.d.ts",
   "files": [
     "dist/"
   ],
